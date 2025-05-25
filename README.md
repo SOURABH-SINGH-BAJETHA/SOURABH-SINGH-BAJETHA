@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Solved **500+** LeetCode problems  
-- ⚔️ Over **800+** total DSA problems across platforms (Codeforces, GFG, HackerRank, etc.)
+- ⚔️ Over **  800+** total DSA problems across platforms (Codeforces, GFG, HackerRank, etc.)
 - 🔐 Working on an RSA Email Encryption project
 - 🧑‍🏫 Mentor at **We Code**, the coding club of Graphic Era University
 - 💼 C++ Intern at **CodSoft**
