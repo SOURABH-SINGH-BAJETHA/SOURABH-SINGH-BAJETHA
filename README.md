@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Singh</h1>
-<h3 align="center">🚀 Problem Solver | 💻 C++ Enthusiast | 🔐 Cybersecurity Explorer</h3>
+<h3 align="center">🚀 Problem Solver | 💻 C++ Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=500%2B+LeetCode+Problems+Solved;800%2B+DSA+Problems+Across+Platforms;Mentor+%7C+Intern+%7C+Code+Lover" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Solved **500+** LeetCode problems  
-- ⚔️ Over **8hundred+** total DSA problems across platforms (Codeforces, GFG, HackerRank, etc.)
+- ⚔️ Over **800+** total DSA problems across platforms (Codeforces, GFG, HackerRank, etc.)
 - 🔐 Working on an RSA Email Encryption project
 - 🧑‍🏫 Mentor at **We Code**, the coding club of Graphic Era University
 - 💼 C++ Intern at **CodSoft**
@@ -29,23 +29,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsingh&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🧠 Problem Solving Platforms
 
-| Platform | Problems Solved |
-|----------|------------------|
-| LeetCode | 500+             |
-| GFG      | 150+             |
-| HackerRank | 100+           |
-| Codeforces | 50+            |
+| Platform     | Problems Solved |
+|--------------|------------------|
+| LeetCode     | 500+             |
+| GFG          | 150+             |
+| HackerRank   | 100+             |
+| Codeforces   | 50+              |
 
 ---
 
@@ -58,11 +49,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sourabhsingh&theme=rogue" alt="Activity Graph" />
-</p>
-
----
-
 _**"Code is like humor. When you have to explain it, it’s bad." – Cory House**_
-
